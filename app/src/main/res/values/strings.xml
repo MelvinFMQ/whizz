@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoRecorderWithHardware</string>
+    <string name="begin">Begin</string>
+    <string name ="start">Start!</string>
+    <string name="stop"> Stop! </string>
+    <string name="sensorData"> Placeholder for sensor data</string>
+</resources>
